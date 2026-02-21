@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+
+<img src="https://github.com/user-attachments/assets/83358070-9239-4310-8093-d11f0502a13f" width = 200px height=600px>
+
 <!--
 **Parvathy-pp/Parvathy-pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
